@@ -38,7 +38,7 @@ func main() {
 	fmt.Println("Angka yang tersedia yaitu = \t", nums)
 
 	println("== array multi dimensi ==")
-	number := [2][3]int8{
+	number := [2][3]int8{ // 2 itu baris dan 3 itu kolom
 		{2, 3, 5},
 		{5, 7, 8},
 	}
